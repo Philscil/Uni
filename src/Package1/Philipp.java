@@ -1,4 +1,4 @@
-package Uebung1.Package1;
+package Package1;
 
 public class Philipp {
 
